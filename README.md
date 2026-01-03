@@ -14,6 +14,7 @@ Uma aplicação FastAPI completa com autenticação JWT, gerenciamento de sensor
 
 ## 📋 Tecnologias
 
+
 - **Python 3.12**
 - **FastAPI 0.128.0**
 - **SQLAlchemy 2.0.45** (sync)
